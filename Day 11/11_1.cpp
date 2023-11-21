@@ -164,7 +164,7 @@ int main(){
     }
     std::cout<<inspections[0]<<" "<<inspections[1]<<std::endl;
 
-     std::cout<<"result: "<<inspections[0]*inspections[1]<<std::endl;
+    std::cout<<"result: "<<inspections[0]*inspections[1]<<std::endl;
     
     File.close();
 }
