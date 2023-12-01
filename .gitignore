@@ -1,4 +1,7 @@
 .vscode/*
+*/.vscode/*
 **/graty
 **/input?.txt
-.exe
+*.exe
+*debug.cpp
+*DESKTOP*
